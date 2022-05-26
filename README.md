@@ -8,7 +8,7 @@ Si tu te reconnais dans ces comportements et que tu aimerais en savoir plus, il 
 -	[Etablissement d’aide aux TCA](https://www.endat.fr)
 -	[Réseau TCA Ile-de-France](https://www.reseautca-idf.org)
 
-Voici également [Un annuaire national des centres, services et équipes spécialisées dans la prise en charge des TCA](https://www.ffab.fr/annuaire-2021)
+Voici également [un annuaire national des centres, services et équipes spécialisées dans la prise en charge des TCA](https://www.ffab.fr/annuaire-2021)
 
 ## Des lignes d’écoute 
 
@@ -36,16 +36,16 @@ Même si Instagram regorge de contenu incitant à la perte de poids et au culte 
 - [@stoptca](https://www.instagram.com/stoptca/)
 - [@planetepsy.tca](https://www.instagram.com/planetepsy.tca/)
 - [@lachetonassiette](https://www.instagram.com/lachetonassiette/)
+- [@lepoidsdesmaux_podcast](https://www.instagram.com/lepoidsdesmaux_podcast/)
 
 ## Podcast
 
-- Reset ton assiette
-- La pleine conscience du pouvoir
-- Osez changer
-- Vert ma vie
-- Encore un pas
-- Matière grasse
-- La tête chocolat
-- Les maux bleus
-- Ne mâchez pas mes maux
-- Le poids des maux
+- [Reset ton assiette](https://linktr.ee/thelastquiche)
+- [La pleine conscience du pouvoir](https://podcasts-francais.fr/podcast/la-pleine-conscience-du-pouvoir)
+- [Osez changer](https://christellecayet.fr/podcast/)
+- [Vert ma vie](https://auvertaveclili.fr/podcast/)
+- [Encore un pas](https://www.alizeeperrin.fr/podcast-encore-un-pas)
+- [Matière grasse](https://graspolitique.wordpress.com/tag/matiere-grasse/)
+- [La tête chocolat](https://latetechocolat.com/)
+- [Les maux bleus](http://placedessciences.fr/nos-podcasts/les-maux-bleus/)
+- [Ne mâchez pas mes maux](https://podcasts-francais.fr/podcast/ne-machez-pas-mes-maux)
