@@ -30,7 +30,7 @@ Même si Instagram regorge de contenu incitant à la perte de poids et au culte 
 - [@corpsenmouv](https://www.instagram.com/corpsenmouv/)
 - [@christelle.cayet](https://www.instagram.com/christelle.cayet/)
 - [@zoedesbouis](https://www.instagram.com/zoedesbouis/)
-- [amandine_folle_avoine](https://www.instagram.com/amandine_folle_avoine/)
+- [@amandine_folle_avoine](https://www.instagram.com/amandine_folle_avoine/)
 - [@\_woman\_in\_progress\_](https://www.instagram.com/_woman_in_progress_/)
 - [@lintuitivore](https://www.instagram.com/lintuitivore/)
 - [@stoptca](https://www.instagram.com/stoptca/)
