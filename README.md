@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Ressources en ligne à propos des TCA (troubles du comportement alimentaire)
 
-You can use the [editor on GitHub](https://github.com/appetitlibre/appetitlibre.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Si tu te reconnais dans ces comportements et que tu aimerais en savoir plus, il existe des ressources en ligne pour t’aider à y voir plus clair pour ensuite t’aider à te décider si tu ressens le besoin de demander un avis sur ta problématique, consulter ou de te faire aider.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Des associations
 
-### Markdown
+-	[La Fédération Française Anorexie Boulime](www.ffab.fr)
+-	[Association Enfine](www.enfine.com)
+-	[Association Autrement](www.anorexie-et-boulimie.fr)
+-	[Etablissement d’aide aux TCA](www.endat.fr)
+-	[Réseau TCA Ile-de-France](www.reseautca-idf.org)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Voici également [Un annuaire national des centres, services et équipes spécialisées dans la prise en charge des TCA](https://www.ffab.fr/annuaire-2021)
 
-```markdown
-Syntax highlighted code block
+## Des lignes d’écoute 
 
-# Header 1
-## Header 2
-### Header 3
+- Anorexie Boulimie info écoute pour les patients et les proches **0810 037 037** tous les lundis, mardis, jeudis et vendredi de 16h à 18h
+- Ligne d’écoute de l’association Enfine **01 40 72 64 44** les mardis et jeudis de 20h à 22h
 
-- Bulleted
-- List
+## Des comptes Instagram
 
-1. Numbered
-2. List
+Même si Instagram regorge de contenu incitant à la perte de poids et au culte du corps, il existe de très bonnes ressources pour se questionner sur son rapport à l’alimentation.
 
-**Bold** and _Italic_ and `Code` text
+- [@appetitlibre](https://www.instagram.com/appetitlibre/)
+- [@thelastquiche](https://www.instagram.com/thelastquiche/)
+- [@sophia_antidietculture](https://www.instagram.com/sophia_antidietculture/)
+- [@ameliecc.diet](https://www.instagram.com/ameliecc.diet/)
+- [@alicia.sicardi](https://www.instagram.com/alicia.sicardi/)
+- [@ariane_la_psy](https://www.instagram.com/ariane_la_psy/)
+- [@annepiozpsy](https://www.instagram.com/annepiozpsy/)
+- [@encore_un_pas](https://www.instagram.com/encore_un_pas/)
+- [@corpsenmouv](https://www.instagram.com/corpsenmouv/)
+- [@christelle.cayet](https://www.instagram.com/christelle.cayet/)
+- [@zoedesbouis](https://www.instagram.com/zoedesbouis/)
+- [amandine_folle_avoine](https://www.instagram.com/amandine_folle_avoine/)
+- [@\_woman\_in\_progress\_](https://www.instagram.com/_woman_in_progress_/)
+- [@lintuitivore](https://www.instagram.com/lintuitivore/)
+- [@stoptca](https://www.instagram.com/stoptca/)
+- [@planetepsy.tca](https://www.instagram.com/planetepsy.tca/)
+- [@lachetonassiette](https://www.instagram.com/lachetonassiette/)
 
-[Link](url) and ![Image](src)
-```
+## Podcast
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/appetitlibre/appetitlibre.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Reset ton assiette
+- La pleine conscience du pouvoir
+- Osez changer
+- Vert ma vie
+- Encore un pas
+- Matière grasse
+- La tête chocolat
+- Les maux bleus
+- Ne mâchez pas mes maux
+- Le poids des maux
