@@ -1,5 +1,3 @@
-# Ressources en ligne à propos des TCA (troubles du comportement alimentaire)
-
 Si tu te reconnais dans ces comportements et que tu aimerais en savoir plus, il existe des ressources en ligne pour t’aider à y voir plus clair pour ensuite t’aider à te décider si tu ressens le besoin de demander un avis sur ta problématique, consulter ou de te faire aider.
 
 ## Des associations
