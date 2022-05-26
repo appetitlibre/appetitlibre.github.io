@@ -1,4 +1,4 @@
-Si tu te reconnais dans ces comportements et que tu aimerais en savoir plus, il existe des ressources en ligne pour t’aider à y voir plus clair pour ensuite t’aider à te décider si tu ressens le besoin de demander un avis sur ta problématique, consulter ou de te faire aider.
+Si tu te reconnais dans ces comportements et que tu aimerais en savoir plus, il existe des ressources en ligne pour t’aider à y voir plus clair. Elles pourront ensuite t’aider à te décider si tu ressens le besoin de demander un avis sur ta problématique, de consulter ou de te faire aider.
 
 ## Des associations
 
@@ -8,7 +8,7 @@ Si tu te reconnais dans ces comportements et que tu aimerais en savoir plus, il 
 -	[Etablissement d’aide aux TCA](https://www.endat.fr)
 -	[Réseau TCA Ile-de-France](https://www.reseautca-idf.org)
 
-Voici également [un annuaire national des centres, services et équipes spécialisées dans la prise en charge des TCA](https://www.ffab.fr/annuaire-2021)
+Voici également [un annuaire national des centres, services et équipes spécialisés dans la prise en charge des TCA](https://www.ffab.fr/annuaire-2021)
 
 ## Des lignes d’écoute 
 
