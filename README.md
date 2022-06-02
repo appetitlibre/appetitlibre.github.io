@@ -43,6 +43,7 @@ Même si Instagram regorge de contenu incitant à la perte de poids et au culte 
 - [@confidences_et_chocolat](https://www.instagram.com/confidences_et_chocolat/)
 - [@zin_ai](https://www.instagram.com/zin_ai/)
 - [@centrepresence](https://www.instagram.com/centrepresence/)
+- [@inthefoodforlife](https://www.instagram.com/inthefoodforlife/)
 
 ## Podcast à écouter
 
