@@ -42,6 +42,7 @@ Même si Instagram regorge de contenu incitant à la perte de poids et au culte 
 - [@lesoinparmarie](https://www.instagram.com/lesoinparmarie/)
 - [@confidences_et_chocolat](https://www.instagram.com/confidences_et_chocolat/)
 - [@zin_ai](https://www.instagram.com/zin_ai/)
+- [@centrepresence](https://www.instagram.com/centrepresence/)
 
 ## Podcast à écouter
 
