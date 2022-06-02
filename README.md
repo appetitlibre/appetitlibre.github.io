@@ -41,8 +41,9 @@ Même si Instagram regorge de contenu incitant à la perte de poids et au culte 
 - [@parlonstca](https://www.instagram.com/parlonstca/)
 - [@lesoinparmarie](https://www.instagram.com/lesoinparmarie/)
 - [@confidences_et_chocolat](https://www.instagram.com/confidences_et_chocolat/)
+- [@zin_ai](https://www.instagram.com/zin_ai/)
 
-## Podcast
+## Podcast à écouter
 
 - [Reset ton assiette](https://linktr.ee/thelastquiche)
 - [La pleine conscience du pouvoir](https://podcasts-francais.fr/podcast/la-pleine-conscience-du-pouvoir)
