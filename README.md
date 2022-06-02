@@ -37,6 +37,10 @@ Même si Instagram regorge de contenu incitant à la perte de poids et au culte 
 - [@planetepsy.tca](https://www.instagram.com/planetepsy.tca/)
 - [@lachetonassiette](https://www.instagram.com/lachetonassiette/)
 - [@lepoidsdesmaux_podcast](https://www.instagram.com/lepoidsdesmaux_podcast/)
+- [@emeline.lecouffe](https://www.instagram.com/emeline.lecouffe/)
+- [@parlonstca](https://www.instagram.com/parlonstca/)
+- [@lesoinparmarie](https://www.instagram.com/lesoinparmarie/)
+- [@confidences_et_chocolat](https://www.instagram.com/confidences_et_chocolat/)
 
 ## Podcast
 
